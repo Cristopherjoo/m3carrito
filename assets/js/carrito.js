@@ -10,8 +10,8 @@ let cupones = [
     estado: true
   },
   {
-    nombre: "50%",
-    descuento: 50,
+    nombre: "30%",
+    descuento: 30,
     estado: true
   },
 ];
@@ -84,7 +84,7 @@ function encontrarProducto(sku) {
   return encontrado;
 }
 
-//LÓGICA VACIAR CARRITO
+//VACIAR CARRITO
 document
   .getElementById("btn-vaciar")
   .addEventListener("click", function (event) {
@@ -93,7 +93,7 @@ document
     location.reload();
   });
 
-//LÓGICA DESCUENTO POR CUPÓN
+// DESCUENTO POR CUPÓN
 document
   .getElementById("btn-descuento")
   .addEventListener("click", function (event) {
@@ -117,7 +117,6 @@ document
       alert("El cupón no existe. / o está caducado");
     }
   });
-
 
   //SUMAR PRODUCTOS
 
