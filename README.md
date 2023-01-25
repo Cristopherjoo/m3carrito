@@ -11,8 +11,9 @@ CSS para dar el estilo, Bootstrap v5.3 creación de navbar, botones.
 
 ## USUARIOS POR DEFECTO
 
-nombre: "Pedro", password: "123456"
-nombre: "Carlos", password: "123456
+nombre: "juan"
+password: "1234"
+        
 
 ### Link del repositorio
 
