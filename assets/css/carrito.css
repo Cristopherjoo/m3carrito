@@ -35,6 +35,17 @@ h1 {
 
 .table th{
   color: rgb(71, 46, 108);
-  font-size: 20px;
+  font-size: 12px;
 
+}
+
+.table {
+  
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20px 20px 20px 20px;
+  box-sizing: border-box;
+  border: 5px solid rgb(89, 56, 122);
+  box-shadow: 10px 20px 25px 5px;
+  font-family: "Jacques Francois Shadow", cursive;
 }
