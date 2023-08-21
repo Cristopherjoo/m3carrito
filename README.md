@@ -1,8 +1,6 @@
-# Entrega portafolio M2
+# Entrega portafolio M3
 
 Este Proyecto tiene como finalidad ejecutar conocimientos Básicos en la creación de una página web.
-
-
 
 ## Tecnologías utilizadas
 
@@ -12,8 +10,7 @@ CSS para dar el estilo, Bootstrap v5.3 creación de navbar, botones.
 ## USUARIOS POR DEFECTO
 
 nombre: "juan"
-password: "1234"
-        
+password: "1234"      
 
 ### Link del repositorio
 
