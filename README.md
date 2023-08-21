@@ -1,7 +1,6 @@
-# Entrega portafolio M2
+# Entrega portafolio M3
 
 Este Proyecto tiene como finalidad ejecutar conocimientos Básicos en la creación de una página web.
-
 
 
 ## Tecnologías utilizadas
